@@ -72,26 +72,12 @@
 > Deployed Link Below: 
 >  soon will be available
 
-- [Live Demo Link](https://roniy68.github.io/event-management)
+- [Live Demo Link](https://icctee-2025-kare.netlify.app/)
   
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Demonstration : 
-
-> Watch this video: 
-- Demonstraion: <br/>
-[![Watch the video](https://media.giphy.com/media/3oz8xNVZFhMdjNnoic/giphy.gif)](https://www.loom.com/share/dca16ee0b02741dd8e9e763f2d3e1c2b)
-<!-- GETTING STARTED -->
-
-## 💻 Getting Started <a name="getting-started"></a>
-
-> An Event Management website where Engineers from different fields collaborate together. 
-
-To get a local copy up and running, follow these steps.
-
-### Prerequisites
 
 In order to run this project you need:
   - NODE 
@@ -159,9 +145,8 @@ To run the project, execute the following command:
 
 👤 **Author**
 
-- GitHub: [@roniy68](https://github.com/roniy68)
-- Twitter: [@ahroniy](https://twitter.com/ahroniy)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/ahroniy)
+- GitHub: [@athithyaramaa1](https://github.com/athithyaramaa1)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/v-athithya-ramaa1)
 
 
 
@@ -201,13 +186,7 @@ If you like this project...
 
 <!-- ACKNOWLEDGEMENTS -->
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-## Designed by :
->[Cindy Shin from behance ](https://www.behance.net/adagio07) <br>
-
-## Developed By: 
-> [`Ahmed Hasan Rony`](https://www.linkedin.com/in/ahroniy)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -5,12 +5,12 @@
   --white-color: #fff;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
 
 * {
   margin: 0;
   padding: 0;
-  font-family: 'Lato', sans-serif;
+  font-family: "Lato", sans-serif;
   scroll-behavior: smooth;
 }
 
@@ -133,7 +133,8 @@ h3 {
 
 .card-icon img {
   height: 100%;
-  filter: invert(91%) sepia(98%) saturate(33%) hue-rotate(199deg) brightness(108%) contrast(99%);
+  filter: invert(91%) sepia(98%) saturate(33%) hue-rotate(199deg)
+    brightness(108%) contrast(99%);
 }
 
 .logo-content img {
@@ -194,7 +195,11 @@ h3 {
 
 #headline {
   width: 100%;
-  background-image: linear-gradient(rgba(214, 209, 243, 0.753), rgba(214, 209, 243, 0.953)), url("images/Jesus-mobile.jpg");
+  background-image: linear-gradient(
+      rgba(214, 209, 243, 0.753),
+      rgba(214, 209, 243, 0.953)
+    ),
+    url("images/Jesus-mobile.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   padding: 120px 0;
@@ -211,7 +216,7 @@ h3 {
   font-weight: bold;
   -webkit-text-fill-color: rgba(185, 27, 9, 0.816);
   -webkit-background-clip: text;
-  width: 50%;
+  width: 100%;
   background-image: url("images/meta.png");
   background-size: cover;
   background-repeat: no-repeat;
@@ -222,7 +227,7 @@ h3 {
   border: 2px solid var(--grey-color);
   color: var(--black-color);
   background-color: var(--white-color);
-  width: 70%;
+  width: 80%;
 }
 
 .headline-footer {
@@ -495,7 +500,6 @@ h3 {
 
 #footer .footer-logo img {
   width: 100%;
-  border-radius: 20px;
 }
 
 #footer .footer-content {
@@ -597,11 +601,19 @@ h3 {
 }
 
 #past-events .events-container div:nth-child(1) {
-  background-image: linear-gradient(rgba(108, 3, 3, 0.954), rgba(162, 63, 63, 0.819)), url("images/event1.jpg");
+  background-image: linear-gradient(
+      rgba(108, 3, 3, 0.954),
+      rgba(162, 63, 63, 0.819)
+    ),
+    url("images/event1.jpg");
 }
 
 #past-events .events-container div:nth-child(2) {
-  background-image: linear-gradient(rgba(108, 3, 3, 0.954), rgba(162, 63, 63, 0.819)), url("images/event2.jpg");
+  background-image: linear-gradient(
+      rgba(108, 3, 3, 0.954),
+      rgba(162, 63, 63, 0.819)
+    ),
+    url("images/event2.jpg");
 }
 
 /* desktop version */
@@ -728,4 +740,32 @@ h3 {
   .about-footer .footer-content p {
     color: var(--black-color);
   }
+}
+
+.topics-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.topics-table th {
+  background-color: #f2f2f2;
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #ddd;
+}
+
+.topics-table td {
+  padding: 10px;
+  vertical-align: top;
+  border: 1px solid #ddd;
+}
+
+.topics-table ul {
+  margin: 0;
+  padding: 0;
+}
+
+.topics-table ul li {
+  margin-bottom: 5px;
 }

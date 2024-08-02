@@ -1,7 +1,7 @@
 const testimonialObjs = [
   {
     name: "Dr.N.Suresh Kumar",
-    comment: "Organizing Chair",
+    comment: "HoD, CSE",
     city: "Srivilliputhur",
     country: "Tamil Nadu",
     imgsrc: "images/person.png",
@@ -9,7 +9,7 @@ const testimonialObjs = [
   },
   {
     name: "Dr.M.Jayalakshmi",
-    comment: "Oranizing Co-Chair",
+    comment: "Associate Professor, CSE",
     city: "Srivilliputhur",
     country: "Tamil Nadu",
     imgsrc: "images/person.png",
